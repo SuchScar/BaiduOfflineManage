@@ -3,6 +3,6 @@
   
 现在的离线地图直接获取是全球地图，cityID>20000的是他国地图，反之则是我国地图，自行判断  
 运行效果图
-<img width="50%" height="50%" src="https://github.com/SuchScar/BaiduOfflineManage/blob/master/运行效果图/1.jpg"/>
-<img width="50%" height="50%" src="https://github.com/SuchScar/BaiduOfflineManage/blob/master/运行效果图/2.jpg"/>
-<img width="50%" height="50%" src="https://github.com/SuchScar/BaiduOfflineManage/blob/master/运行效果图/3.jpg"/>
+<img width="45%" height="45%" src="https://github.com/SuchScar/BaiduOfflineManage/blob/master/运行效果图/1.jpg"/>
+<img width="45%" height="45%" src="https://github.com/SuchScar/BaiduOfflineManage/blob/master/运行效果图/2.jpg"/>
+<img width="45%" height="45%" src="https://github.com/SuchScar/BaiduOfflineManage/blob/master/运行效果图/3.jpg"/>
